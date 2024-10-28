@@ -53,7 +53,7 @@ This application demonstrates how to:
 
 ### 1. Clone the Repository
 Clone or download the project to your local machine:
-git clone https://github.com/JKKO0/Android-App-data-retriever.git
+git clone https://github.com/JKKO0/Fetch.git
 
 
 ### 2. Open the Project in Android Studio
